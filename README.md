@@ -1,5 +1,7 @@
 Covid-19 Data Analysis Project
 
+SQL: SQL queries are contained in CovidData.sql
+
 Tableau Dashboard
 Link: https://public.tableau.com/app/profile/gonjetso/viz/Covid-19Dashboard_16691151122170/Dashboard1
 
