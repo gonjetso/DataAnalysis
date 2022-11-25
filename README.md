@@ -8,6 +8,9 @@ The data was then exported back to Excel form and imported into Tableau. The lin
 <h3>2. Data Cleaning Project</h3>
 This project demonstrates my data cleaning abilities. I used Microsoft SQL Server Management Studio again to perform the SQL queries. The SQL skills demonstrated are Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, and Converting Data Types.
 
-<h3>3. Python Project</h3>
+<h3>3. Python Data Correlation Project</h3>
 This project looks at movie data from various film studios and works what factors have a high correlation with gross earnings. The project uses the Python libraries
  pandas, numpy, seaborn, and matplotlib.
+ 
+ <h3>Weather Data Project</h3>
+ This is another Python project analysis weather data and responding to basic questions about the data. The project uses the pandas library.
