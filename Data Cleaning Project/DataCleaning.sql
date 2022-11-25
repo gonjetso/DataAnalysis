@@ -1,4 +1,8 @@
---DATA CLEANING PROJECT
+/*
+Cleaning Data in SQL 
+Skills used : CREATE, UPDATE, SELECT, CTE, JOINS, OREDR BY, GROUP BY
+*/
+
 
 --Standardise the date format
 SELECT *
