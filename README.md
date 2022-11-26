@@ -14,3 +14,6 @@ This project looks at movie data from various film studios and works what factor
  
  <h3>4. Weather Data Project</h3>
  This is another Python project analysis weather data and responding to basic questions about the data. The project uses the pandas library.
+
+<h3>5. Car Data EDA Project</h3>
+This is an exploratory data analysis of a car dataset using Python. The project uses the Python libraries pandas, numpy, seaborn, and matplotlib.
