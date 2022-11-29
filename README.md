@@ -17,3 +17,6 @@ This project looks at movie data from various film studios and works what factor
 
 <h3>5. Car Data EDA Project</h3>
 This is an exploratory data analysis of a car dataset using Python. The project uses the Python libraries pandas, numpy, seaborn, and matplotlib.
+
+<h3>Bike Sales Excel Project</h3>
+This project demonstrates my Excel skills including data cleaning, pivot tables, slicers for filtering data, and dashboards.
